@@ -1,6 +1,6 @@
 # Velocímetro
 
-Essa aplicação calcula a velocidade de deslocamento do usuário. Usamos dois cálculos diferentes para comparar a eficacia entre eles:
+Essa aplicação calcula a velocidade de deslocamento do usuário. Usamos dois cálculos diferentes para comparar a eficácia entre eles:
 
 - getSpeed: o primeiro cálculo é usando o método getSpeed() que é oferecido pelo Android/GPS e automaticamente oferece a velocidade do usuário.
 

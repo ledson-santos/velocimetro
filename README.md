@@ -9,3 +9,5 @@ Essa aplicação calcula a velocidade de deslocamento do usuário. Usamos dois c
 Ambos os métodos usam um location listening que gera updates da localização do usuário automaticamente a medida que o usuário se desloca. Essas atualizações são geradas com pelo menos 1 segundo de diferença entre elas e pelo menos 1 metro deslocado.
 
 Por padrão, a velocidade é em m/s. Convertemos para km/h por ser um requisito da aplicação.
+
+Essa aplicação usa o componente Gauge por Pygmalion69: https://github.com/Pygmalion69/Gauge.

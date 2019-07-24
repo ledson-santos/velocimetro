@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Velocímetro</string>
+    <string name="unidade">km/h</string>
     <string name="velocidade_default">0.00 km/h</string>
     <string name="velocidade">%1$.2f km/h</string>
     <string name="manual_label">Cálculo Manual</string>
-    <string name="auto_label">Função getSpeed()</string>
+    <string name="auto_label">Função getSpeed</string>
     <string name="erro">Erro: Permissão para acessar o GPS necessária.</string>
+    <string name="erro_desconhecido">Erro: Um problema inesperado aconteceu.</string>
 </resources>
